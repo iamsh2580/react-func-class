@@ -3,3 +3,8 @@
     margin:5px;
     padding: 5px;
 }
+
+body{
+    background-color: pink;
+    font-family: 'Courier New', Courier, monospace;
+}
